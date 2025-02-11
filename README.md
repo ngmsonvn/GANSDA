@@ -1,2 +1,1 @@
-# GANSDA
-Generative adversarial networks for spectral data augmentation.
+# Generative adversarial networks for spectral data augmentation.
